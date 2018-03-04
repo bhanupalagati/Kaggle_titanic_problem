@@ -29,3 +29,6 @@ DEPENDENT TEST VARIABLES DATASET
 TRAINING ALGORITHM
 PICKLE FILE 
 APPLICATION ALGORITHM
+
+
+.sav file is the pickle if you are downloading the dataset take care of this file 
